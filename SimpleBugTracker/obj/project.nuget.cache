@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGeybz9G6oBWMOxVQCMtWha5g4/MIomOCy2eNRBgNuwhQglH2/J+y4148D9pa1eimFcR+FhmdGdcQ8v1FPyK9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sanmi\\OneDrive\\Documents\\0_PROGRAMMING\\POLIGRAN\\SimpleBugTracker\\SimpleBugTracker\\SimpleBugTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanmi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
